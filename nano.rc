@@ -1,0 +1,33 @@
+include ~/.swc/share/nanorc/doc/syntax/nanorc/asm.nanorc
+include ~/.swc/share/nanorc/doc/syntax/nanorc/awk.nanorc
+include ~/.swc/share/nanorc/doc/syntax/nanorc/c.nanorc
+include ~/.swc/share/nanorc/doc/syntax/nanorc/cmake.nanorc
+include ~/.swc/share/nanorc/doc/syntax/nanorc/css.nanorc
+include ~/.swc/share/nanorc/doc/syntax/nanorc/fortran.nanorc
+include ~/.swc/share/nanorc/doc/syntax/nanorc/gentoo.nanorc
+include ~/.swc/share/nanorc/doc/syntax/nanorc/groff.nanorc
+include ~/.swc/share/nanorc/doc/syntax/nanorc/html.nanorc
+include ~/.swc/share/nanorc/doc/syntax/nanorc/java.nanorc
+include ~/.swc/share/nanorc/doc/syntax/nanorc/makefile.nanorc
+include ~/.swc/share/nanorc/doc/syntax/nanorc/man.nanorc
+include ~/.swc/share/nanorc/doc/syntax/nanorc/mutt.nanorc
+include ~/.swc/share/nanorc/doc/syntax/nanorc/nanorc.nanorc
+include ~/.swc/share/nanorc/doc/syntax/nanorc/ocaml.nanorc
+include ~/.swc/share/nanorc/doc/syntax/nanorc/patch.nanorc
+include ~/.swc/share/nanorc/doc/syntax/nanorc/perl.nanorc
+include ~/.swc/share/nanorc/doc/syntax/nanorc/php.nanorc
+include ~/.swc/share/nanorc/doc/syntax/nanorc/pov.nanorc
+include ~/.swc/share/nanorc/doc/syntax/nanorc/python.nanorc
+include ~/.swc/share/nanorc/doc/syntax/nanorc/ruby.nanorc
+include ~/.swc/share/nanorc/doc/syntax/nanorc/sh.nanorc
+include ~/.swc/share/nanorc/doc/syntax/nanorc/tcl.nanorc
+include ~/.swc/share/nanorc/doc/syntax/nanorc/tex.nanorc
+include ~/.swc/share/nanorc/doc/syntax/nanorc/xml.nanorc
+
+set tabstospaces
+
+set tabsize 4
+
+set autoindent
+
+
